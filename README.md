@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imashfaque
+- 👋 Hi, I’m @Ashfaq
 - 👀 I’m interested in ...Data Engineering 
-- 🌱 I’m currently learning ... Javascript 
+- 🌱 I’m currently learning ... AWS,Python and SQL  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashfaqnesar@hotmail.com
 
